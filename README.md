@@ -1,4 +1,4 @@
 # 5313506_SteveHamilton
 
-![AGILE](./SDLC/Screenshot (487).png)
+![AGILE](./SDLC/agile-certificate.png)
 
