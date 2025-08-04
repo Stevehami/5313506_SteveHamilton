@@ -4,3 +4,5 @@
 
 ![GIT](./GIT/Git-certificate.jpg)
 
+![C](./Essentials%20of%20C/C-Beginner.jpg)
+
