@@ -6,3 +6,5 @@
 
 ![C](./Essentials%20of%20C/C-Beginner.jpg)
 
+![C-INTERMEDIATE](./Essentials%20of%20C/C-Intermediate.jpg)
+
